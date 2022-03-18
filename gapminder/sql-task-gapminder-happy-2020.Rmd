@@ -629,20 +629,3 @@ Use a SELECT statement to calculate a new column, aliased as growth, that calcul
 ```{sql connection=con}
 
 ```
-
----
-
-
-## Subqueries
-
-* a) Use the happy table to discover which countries have higher than overall average happiness (use a subquery)? 
-
-```{sql connection=con}
-
-```
-
-* b) Obtain the overall average happiness: 
-
-```{sql connection=con}
-
-```
